@@ -4,9 +4,12 @@
 	<title>Index Page</title>
 </head>
 <body>
-	<h1>Boooo</h1>
-	<h2>Boooo</h2>
-	<h3>Boooo</h3>
+	<h1>All my projects</h1>
+	<h2></h2>
+	<a href="imagegallary">Image Gallary</a><br>
+	<a href="robotfriend">Android Robot</a><br>
+	<a href="startuploadingpage">Start up loading page</a><br>
+	<h3></h3>
 	<p><strong>Lorem ipsum</strong> dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

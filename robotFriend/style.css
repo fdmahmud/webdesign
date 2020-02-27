@@ -5,8 +5,8 @@ h1 {
 
 .robots {
 	display: flex;
-	flex-wrap: wrap;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .head, 
@@ -28,7 +28,8 @@ h1 {
 
 .eyes {
 	display: flex;
-	
+	/*justify-content: center;*/
+	/*flex-wrap: wrap;*/
 }
 
 .head:hover {
